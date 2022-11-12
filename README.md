@@ -101,7 +101,9 @@ Misc
 * https://github.com/lvancrayelynghe/chrome-remote-reload
 * https://stackoverflow.com/questions/31340063/how-to-change-url-on-chromium-kiosk-mode-via-ssh
 
+## Alternatives 
 
+* long complicated xdotool command - but if you are on wayland you are doomed
 
 
 
