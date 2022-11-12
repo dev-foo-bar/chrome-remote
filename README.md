@@ -103,7 +103,7 @@ Misc
 
 ## Alternatives 
 
-* long complicated xdotool command - but if you are on wayland you are doomed
+* long complicated xdotool command for X11 based systems - but if you are on wayland you are doomed
 
 
 
